@@ -10,10 +10,9 @@
     "request-debug": "^0.2.0",
     "request-promise": "^4.2.0"
   },
-  "name": "LinkBlox",
-  "version": "8.0.0",
-  "main": "src/index.js",
-  "repository": "https://github.com/evaera/RoVer",
-  "author": "evaera",
-  "license": "Apache-2.0"
+    "name": "myapp",
+  "description": "a really cool app",
+  "version": "0.0.1",
+  "engines": {
+    "npm": "2.1.x"
 }
